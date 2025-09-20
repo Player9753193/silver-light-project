@@ -1,0 +1,13 @@
+[
+  "age",
+  "bmi",
+  "heart_rate",
+  "systolic_bp",
+  "diastolic_bp",
+  "o2_saturation",
+  "steps_today",
+  "inactivity_duration",
+  "egfr",
+  "is_voice_slow",
+  "is_night_walking"
+]
